@@ -3,7 +3,7 @@
 This is demo app that calls several APIs.  
 This app uses styled components.
 
-### `npm start`
+### `npm start` [![Netlify Status](https://api.netlify.com/api/v1/badges/0c1ff7af-4a89-44e7-a73b-288e9afb6f70/deploy-status)](https://app.netlify.com/sites/react-cdca/deploys)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
